@@ -12,3 +12,7 @@
 - [ ] Task list, second item
 
 ## Review
+```r
+x <- 5
+y <- 3*x
+```
